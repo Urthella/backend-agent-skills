@@ -8,6 +8,7 @@
 |---|---|
 | [migration-review](skills/migration-review/SKILL.md) | Reviews Postgres migrations for blocking locks, table rewrites, unsafe deploy order and data loss, and rewrites risky steps as expand/contract sequences |
 | [load-test-plan](skills/load-test-plan/SKILL.md) | Plans and writes k6 load tests with open-model arrival rates and SLO thresholds, then reports capacity and the bottleneck |
+| [incident-runbook](skills/incident-runbook/SKILL.md) | Walks a production incident from alert to postmortem: severity, mitigation before root cause, status updates, timeline, blameless write-up. Asks before touching production |
 
 ## Install
 
